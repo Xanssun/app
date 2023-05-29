@@ -18,3 +18,7 @@ docker-compose exec web python manage.py migrate
 docker-compose exec web python manage.py createsuperuser
 docker-compose exec web python manage.py collectstatic --no-input
 Зайдите на (http://localhost/admin/) и убедитесь, что все работает
+
+
+# Проект YaMDB
+![Github actions](https://github.com/Xanssun/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
