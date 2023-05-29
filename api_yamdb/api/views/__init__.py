@@ -1,3 +1,4 @@
+# flake8: noqa
 from api.views.categories import CategoryViewSet
 from api.views.comment import CommentViewSet
 from api.views.genres import GenreViewSet

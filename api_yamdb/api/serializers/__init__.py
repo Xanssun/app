@@ -1,3 +1,4 @@
+# flake8: noqa
 from api.serializers.categories_serializer import CategorySerializer
 from api.serializers.comments_serializer import CommentSerializer
 from api.serializers.genres_serializer import GenreSerializer

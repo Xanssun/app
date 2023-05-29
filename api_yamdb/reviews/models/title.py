@@ -1,3 +1,4 @@
+# flake8: noqa
 from django.db import models
 from .categories import Categories
 from .genres import Genre

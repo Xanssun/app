@@ -1,3 +1,4 @@
+# flake8: noqa
 from reviews.models.categories import Categories
 from reviews.models.comments import Comments
 from reviews.models.genres import Genre
