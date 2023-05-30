@@ -1,5 +1,4 @@
 # flake8: noqa
-#fewfwefeiofweofij
 from django.apps import AppConfig
 
 
