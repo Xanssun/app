@@ -19,6 +19,6 @@ docker-compose exec web python manage.py createsuperuser
 docker-compose exec web python manage.py collectstatic --no-input
 Зайдите на (http://localhost/admin/) и убедитесь, что все работает
 
-сервер доступен по http://51.250.12.94/admin/
+сервер доступен по http://51.250.0.252/admin/
 # Проект YaMDB
 ![Github actions](https://github.com/Xanssun/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
